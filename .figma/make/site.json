@@ -1,0 +1,10 @@
+{
+  "description": "Customizable browser welcome page featuring multiple bookmarks for quick access, enhancing user productivity and browsing efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
